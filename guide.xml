@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="PREMIERE CLUBES">
+    <display-name lang="pt">PREMIERE CLUBES</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="PREMIERE HD">
+    <display-name lang="pt">PREMIERE HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 3 HD">
+    <display-name lang="pt">PREMIERE 3 HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 4 HD">
+    <display-name lang="pt">PREMIERE 4 HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 5 HD">
+    <display-name lang="pt">PREMIERE 5 HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 2 HD">
+    <display-name lang="pt">PREMIERE 2 HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 6 HD">
+    <display-name lang="pt">PREMIERE 6 HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 7 HD">
+    <display-name lang="pt">PREMIERE 7 HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 8 HD">
+    <display-name lang="pt">PREMIERE 8 HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="SPORTV 3 HD">
+    <display-name lang="en">SPORTV 3 HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="SPORTV 2 HD">
+    <display-name lang="en">SPORTV 2 HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="SPORTV HD">
+    <display-name lang="en">SPORTV HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="MULTISHOW HD">
+    <display-name lang="en">MULTISHOW HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="RECORD HD">
+    <display-name lang="pt">RECORD HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="SBT HD">
+    <display-name lang="pt">SBT HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="SONY HD">
+    <display-name lang="pt">SONY HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="SPACE HD">
+    <display-name lang="pt">SPACE HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="TOONCAST">
+    <display-name lang="pt">TOONCAST</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="WANNER HD">
+    <display-name lang="en">WANNER HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="MEGAPIX HD">
+    <display-name lang="en">MEGAPIX HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="en">TNT HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="TELECINE PREMIUM HD">
+    <display-name lang="en">TELECINE PREMIUM HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="TELECINE ACTION HD">
+    <display-name lang="en">TELECINE ACTION HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="TELECINE TOUCH HD">
+    <display-name lang="en">TELECINE TOUCH HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="TELECINE FUN HD">
+    <display-name lang="en">TELECINE FUN HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="TELECINE PIPOCA HD">
+    <display-name lang="en">TELECINE PIPOCA HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="TELECINE CULT HD">
+    <display-name lang="en">TELECINE CULT HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="en">AXN HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="en">FX HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="CARTOON NETWORK">
+    <display-name lang="en">CARTOON NETWORK</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="DISNEY CHANNEL HD">
+    <display-name lang="en">DISNEY CHANNEL HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="DISNEY CHANNEL">
+    <display-name lang="pt">DISNEY CHANNEL</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="DISNEY XD">
+    <display-name lang="en">DISNEY XD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="NICKELODEON HD">
+    <display-name lang="en">NICKELODEON HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="BOOMERANG">
+    <display-name lang="en">BOOMERANG</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="E!">
+    <display-name lang="en">E!</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="COMEDY CANTRAL">
+    <display-name lang="en">COMEDY CANTRAL</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="COMEDY CANTRAL HD">
+    <display-name lang="pt">COMEDY CANTRAL HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="en">ESPN</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="FOX SPORTS HD">
+    <display-name lang="en">FOX SPORTS HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="E! HD">
+    <display-name lang="pt">E! HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="ESPN BRASIL HD">
+    <display-name lang="pt">ESPN BRASIL HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name lang="pt">ESPN 2</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="GNT HD">
+    <display-name lang="pt">GNT HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 2">
+    <display-name lang="pt">PREMIERE 2</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 3">
+    <display-name lang="pt">PREMIERE 3</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 4">
+    <display-name lang="pt">PREMIERE 4</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 5">
+    <display-name lang="pt">PREMIERE 5</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 6">
+    <display-name lang="pt">PREMIERE 6</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 7">
+    <display-name lang="pt">PREMIERE 7</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 8">
+    <display-name lang="pt">PREMIERE 8</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="en">HBO HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="en">HBO 2 HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="HBO Plus HD">
+    <display-name lang="en">HBO PLUS HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="HBO FAMILY">
+    <display-name lang="en">HBO FAMILY</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="en">FOX HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="COMBATE HD">
+    <display-name lang="pt">COMBATE HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="HISTORY HD">
+    <display-name lang="pt">HISTORY HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="HISTORY 2">
+    <display-name lang="en">HISTORY 2</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL HD">
+    <display-name lang="en">DISCOVERY CHANNEL HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="DISCOVERY SCIENCE HD">
+    <display-name lang="pt">DISCOVERY SCIENCE HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC HD">
+    <display-name lang="en">NATIONAL GEOGRAPHIC HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="DISCOVERY HOME HEALTH">
+    <display-name lang="pt">DISCOVERY HOME HEALTH</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="FOX PREMIUM 1 HD">
+    <display-name lang="en">FOX PREMIUM 1 HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="FOX PREMIUM 2 HD">
+    <display-name lang="en">FOX PREMIUM 2 HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="CINEMAX HD">
+    <display-name lang="en">CINEMAX HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="en">TCM</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="TNT SÉRIES HD">
+    <display-name lang="pt">TNT SÉRIES HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="BIS HD">
+    <display-name lang="en">BIS HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="BAND NEWS">
+    <display-name lang="en">BAND NEWS</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="BAND HD">
+    <display-name lang="pt">BAND HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="GLOBO HD">
+    <display-name lang="pt">GLOBO HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+</tv>
